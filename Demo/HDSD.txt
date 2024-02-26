@@ -1,0 +1,14 @@
+HƯỚNG DẪN SỬ DỤNG GOD OF THUNDER EFFECT
+
+1. HIỆU ỨNG GỌI SẤM:
+Thực hiện chuyển bàn tay về hình dạng nắm đấm để sử dụng hiệu ứng
+
+2. HIỆU ỨNG TÍCH NĂNG LƯỢNG:
+Thực hiện co các ngón tay sao cho khoảng cách từ đầu ngón cái để đầu ngón trỏ
+và đầu ngón đeo nhẫn là bằng nhau.
+Thực hiện đến khi màn hình hiện thông báo "Full Energy".
+
+3. HIỆU ỨNG TẤN CÔNG:
+Khi đã tích tụ đủ năng lượng, thực hiện duỗi thẳng các ngón tay ở cả hai bàn
+tay để thực hiện tấn công. Năng lượng giảm về 0 thì ngừng hiệu ứng.
+	(*Lưu ý: Cần xuất hiện cả hai bàn tay trên khung hình webcam.*) 
